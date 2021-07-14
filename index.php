@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" >
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap5.min.css">
-    <title>PT Sawit Prima Coal</title>
+    <title>PT Sawit Bahagia</title>
 
     <!-- CSS -->
     <link rel="stylesheet" href="style.css">
@@ -39,7 +39,7 @@
 
 
     <div class="container data-mahasiswa mt-5">
-        <h2 class="text-center mb-5"> Data Karyawan PT Sawit Prima Coal</h2>
+        <h2 class="text-center mb-5"> Data Karyawan PT Sawit Bahagia</h2>
 
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#tambahData">
